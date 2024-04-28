@@ -1,4 +1,4 @@
-export const host = "http://localhost:3002";
+export const host = "https://koushik-backend.onrender.com";
 export const loginRoute = `${host}/api/userRoutes/login`;
 export const registerRoute = `${host}/api/userRoutes/register`;
 export const logoutRoute = `${host}/api/userRoutes/logout`;
